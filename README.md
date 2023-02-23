@@ -2,6 +2,8 @@
 
 Private chats between agents in LiveChat
 
+<img src="https://cdn.livechat-files.com/api/file/developers/img/applications/tI_kTWq7g/icons/ND9WTW3nR.png" />
+
 ## Install on Heroku
 
 1. Push code on heroku:
